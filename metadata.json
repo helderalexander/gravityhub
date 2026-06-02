@@ -1,0 +1,6 @@
+{
+  "name": "Gravity Hub",
+  "description": "Plataforma educacional sobre gravitação e astrofísica",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
